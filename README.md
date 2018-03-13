@@ -1,8 +1,12 @@
 # Amsterdam - Street information
+With this tool, you find your own street photo's with meta-data just by clicking on a loaded street. The longest streets are not available.
+
+## Controls
+- To load a new area with streets: `Click double on the map`
+- To get information about a street: `Click on a street`
 
 
-
-[Website](https://iiyama12.github.io/oba/map)
+[Website link](https://iiyama12.github.io/project1-quick-hack-prototype/)
 
 
 ## SPARQL queries
