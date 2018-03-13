@@ -1,7 +1,7 @@
 # Amsterdam - Street information
-With this tool, you find your own street photo's with meta-data just by clicking on a loaded/(white) street.
+With this tool you find your own street photo's and meta-data. This can be achieved by just clicking on a loaded/(white) street.
 
-## Bugs
+## Limitations
 - The longest streets are not supported yet, because of some problems with the geo locations.
 
 ## Controls
