@@ -38,7 +38,7 @@ const sparqlquery = `
     LIMIT 500
 `;
 ```
-#### Retrieves
+#### Data
 - The street (URI)
 - Street size
 - Street geo information
@@ -75,7 +75,7 @@ const sparqlquery = `
 `;
 ```
 
-#### Retrieves
+#### Data
 - Image (URI)
 - Image depiction
 - (OPTIONAL)
