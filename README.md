@@ -1,9 +1,15 @@
 # Amsterdam - Street information
-With this tool, you find your own street photo's with meta-data just by clicking on a loaded street. The longest streets are not supported yet, because of some problems with the geo locations.
+With this tool, you find your own street photo's with meta-data just by clicking on a loaded/(white) street.
+
+## Bugs
+- The longest streets are not supported yet, because of some problems with the geo locations.
 
 ## Controls
 - To load a new area with streets: `Click double on the map`
 - To get information about a street: `Click on a street`
+
+## Future features
+- Add user-interface for filtering at streets size. (Functionality is already created)
 
 
 [Website link](https://iiyama12.github.io/project1-quick-hack-prototype/map)
@@ -87,3 +93,6 @@ const sparqlquery = `
     - Description
     - Subject
     - Start year
+
+
+## - - TODO - -
